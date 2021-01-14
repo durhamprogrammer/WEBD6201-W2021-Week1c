@@ -8,7 +8,7 @@
     // initialization function
     function Start()
     {
-        console.log("Have a nice day");
+        console.log("App Started...");
     }
     
 
